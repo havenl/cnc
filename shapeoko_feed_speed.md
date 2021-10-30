@@ -8,8 +8,8 @@
 |2             |18200             |
 |3             |20400             |
 |4             |22600             |
-|5             |27000             |
-|6             |16000             |
+|5             |24800             |
+|6             |27000             |
 
 # Materials
 |Material|Cutter| Toolpath | RPM | IPM | DOC | Stepover | Optimal Load | Chipload|
