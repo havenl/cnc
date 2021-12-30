@@ -35,6 +35,8 @@
 |Acrylic|1/4" 3 Flute|Pocket|10k|75"|0.0625"|0.125"||.0025"
 |Acrylic|1/4" 3 Flute|Contour|10k|75"|0.055"|||.0025"
 |Acrylic|1/4" 3 Flute|Adaptive|10k|105"|0.15"||0.05"|.0035"
+|PCB|1/8"|Contour|12k|14", 360mm|0.005", 0.13mm|||
+|PCB|1/16"|Contour|12k|14", 360mm|0.005", 0.13mm|||
 
 ## Wood
 [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1CmL5hVJ_tTB7a9_wF_YlTcL4spFmjNa09cTN1dXDF7U/edit#gid=0)
